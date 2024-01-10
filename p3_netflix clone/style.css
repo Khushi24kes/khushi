@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-    background-image: url("assets/images/bg.jpg");
+    background-image: url("./images/bg.jpg");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
@@ -305,3 +305,21 @@ footer .questions {
     flex-direction: column;
     gap: 23px;
 }
+
+.default-ltr-cache-1t1z3a4{
+    height: 3rem;
+}
+
+
+.default-ltr-cache-tcf860 {
+    text-align: left;
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-shrink: 1;
+    -ms-flex-negative: 1;
+    flex-shrink: 1;
+    margin: 0.3rem 0;
+}
+
